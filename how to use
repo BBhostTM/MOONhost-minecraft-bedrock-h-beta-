@@ -1,0 +1,8 @@
+# How to use
+echo "# MOONhost-minecraft-bedrock-h-beta-" >> path
+git init
+git add path name
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BBhostTM/MOONhost-minecraft-bedrock-h-beta-.git
+git push -u origin main
